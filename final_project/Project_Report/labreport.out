@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Random forests}{}% 2
+\BOOKMARK [1][-]{section.3}{SimForest}{}% 3
+\BOOKMARK [1][-]{section.4}{Problem Definition}{}% 4
+\BOOKMARK [1][-]{section.5}{THE SIMFOREST ALGORITHM}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Testing Phase}{section.5}% 6
+\BOOKMARK [1][-]{section.6}{Implementation}{}% 7
+\BOOKMARK [2][-]{subsection.6.1}{Data Preprocessing}{section.6}% 8
+\BOOKMARK [2][-]{subsection.6.2}{Model Fitting}{section.6}% 9
+\BOOKMARK [1][-]{section.7}{EVALUATION AND RESULTS}{}% 10
+\BOOKMARK [1][-]{section.8}{CONCLUSION}{}% 11
+\BOOKMARK [1][-]{section.9}{EXTRA CREDIT}{}% 12

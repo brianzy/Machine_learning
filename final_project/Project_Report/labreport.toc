@@ -1,0 +1,13 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {section}{\numberline {2}Random forests}{4}{section.2}
+\contentsline {section}{\numberline {3}SimForest}{5}{section.3}
+\contentsline {section}{\numberline {4}Problem Definition}{6}{section.4}
+\contentsline {section}{\numberline {5}THE SIMFOREST ALGORITHM}{6}{section.5}
+\contentsline {subsection}{\numberline {5.1}Testing Phase}{7}{subsection.5.1}
+\contentsline {section}{\numberline {6}Implementation}{7}{section.6}
+\contentsline {subsection}{\numberline {6.1}Data Preprocessing}{7}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Model Fitting}{8}{subsection.6.2}
+\contentsline {section}{\numberline {7}EVALUATION AND RESULTS}{8}{section.7}
+\contentsline {section}{\numberline {8}CONCLUSION}{11}{section.8}
+\contentsline {section}{\numberline {9}EXTRA CREDIT}{12}{section.9}
